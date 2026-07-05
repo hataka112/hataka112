@@ -6,12 +6,3 @@
     🎓 <b>Studying at Riga Technical University (RTU)</b> <br>
     🏫 Second-year student in the <i>Computer Systems</i> program <br>
   </p>
-  
-<div align="center">
-
-##Technologies
-
-![C++](https://shields.io) ![Java](https://shields.io) ![Python](https://shields.io)
-
-</div>
-
