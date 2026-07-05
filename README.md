@@ -6,3 +6,7 @@
     🎓 <b>Studying at Riga Technical University (RTU)</b> <br>
     🏫 Second-year student in the <i>Computer Systems</i> program <br>
   </p>
+
+  <img src="https://vercel.app" alt="Albina's Contribution Graph" />
+</div>
+
