@@ -5,6 +5,5 @@
   <p>
     🎓 <b>Studying at Riga Technical University (RTU)</b> <br>
     🏫 Second-year student in the <i>Computer Systems</i> program <br>
-    📍 Based in Riga, Latvia
   </p>
 </div>
