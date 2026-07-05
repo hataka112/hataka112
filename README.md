@@ -8,8 +8,10 @@
   </p>
   
 <div align="center">
-  <h2>Technologies</h2>
-![C++](https://shields.io)
-![Java](https://shields.io)
-![Python](https://shields.io)
+  <h2>⚙️ Technologies</h2>
+  <p>
+    <img src="https://shields.io" alt="C++" />
+    <img src="https://shields.io" alt="Java" />
+    <img src="https://shields.io" alt="Python" />
+  </p>
 </div>
