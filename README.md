@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.jfif" alt="GitHub Banner" width="100%">
+</p>
+
 ## Hi there 👋
 
 <!--
